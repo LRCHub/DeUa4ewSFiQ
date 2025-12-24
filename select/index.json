@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sincerely",
+  "base_artist": "TRUE",
+  "createdAt": "2025-12-24T12:45:14.763361Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dear God (Sincerely M.O.F.)",
+      "artist": "Monsters of Folk",
+      "has_synced": true,
+      "path": "select/01_Dear_God_(Sincerely_M.O.F.)_Monsters_of_Folk.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sincerely Me - From The “Dear Evan Hansen” Original Motion Picture Soundtrack",
+      "artist": "Colton Ryan feat. Ben Platt & Nik Dodani",
+      "has_synced": true,
+      "path": "select/02_Sincerely_Me_-_From_The_“Dear_Evan_Hansen”_Original_Motion_Picture_Soundtrack_Colton_Ryan_feat._Ben_Platt_&_Nik_Dodani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sincerely Me (from the “Dear Evan Hansen” original motion picture soundtrack)",
+      "artist": "Colton Ryan, Ben Platt & Nik Dodani",
+      "has_synced": true,
+      "path": "select/03_Sincerely_Me_(from_the_“Dear_Evan_Hansen”_original_motion_picture_soundtrack)_Colton_Ryan,_Ben_Platt_&_Nik_Dodani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sincerely Me",
+      "artist": "New Found Glory",
+      "has_synced": false,
+      "path": "select/04_Sincerely_Me_New_Found_Glory.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sincerely Yours",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/05_Sincerely_Yours_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sincerely Yours",
+      "artist": "Spirit of the West",
+      "has_synced": false,
+      "path": "select/06_Sincerely_Yours_Spirit_of_the_West.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sincerely, Jane",
+      "artist": "Janelle Monáe",
+      "has_synced": false,
+      "path": "select/07_Sincerely,_Jane_Janelle_Monáe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sincerely",
+      "artist": "The Tokens",
+      "has_synced": false,
+      "path": "select/08_Sincerely_The_Tokens.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sincerely Yours",
+      "artist": "Stef Chura",
+      "has_synced": false,
+      "path": "select/09_Sincerely_Yours_Stef_Chura.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sincerely Yours, Truly",
+      "artist": "Adult Mom",
+      "has_synced": true,
+      "path": "select/10_Sincerely_Yours,_Truly_Adult_Mom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sincerely",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/11_Sincerely_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sincerely - English version",
+      "artist": "TRUE",
+      "has_synced": true,
+      "path": "select/12_Sincerely_-_English_version_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sincerely",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/13_Sincerely_TRUE.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sincerely",
+      "artist": "The Moonglows",
+      "has_synced": false,
+      "path": "select/14_Sincerely_The_Moonglows.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sincerely / Teach Me Tonight",
+      "artist": "Barry Manilow feat. Phyllis McGuire",
+      "has_synced": false,
+      "path": "select/15_Sincerely___Teach_Me_Tonight_Barry_Manilow_feat._Phyllis_McGuire.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sincerely  Teach Me Tonight (feat. Phyllis McGuire)",
+      "artist": "Barry Manilow",
+      "has_synced": false,
+      "path": "select/16_Sincerely_Teach_Me_Tonight_(feat._Phyllis_McGuire)_Barry_Manilow.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sincerely",
+      "artist": "TRUE",
+      "has_synced": false,
+      "path": "select/pl_01_Sincerely_TRUE.txt"
+    }
+  ]
+}
